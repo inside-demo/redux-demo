@@ -44,8 +44,7 @@
         }
       ],
       "stage-0",
-      "react",
-      "minify"
+      "react"
     ],
     "plugins": [
       "transform-object-rest-spread"
